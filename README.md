@@ -189,17 +189,17 @@ Every subsystem is fully specified before implementation.
 
 UnForX is released under the **Apache License 2.0**.
 
-This allows:
-- commercial use
-- modification
-- redistribution
+This license allows:
+- commercial and non-commercial use
+- modification and redistribution
+- use in proprietary systems
 
-while preserving:
-- attribution
-- patent protection
-- long-term openness
+while providing:
+- explicit attribution requirements
+- patent protection for contributors
+- long-term legal clarity for open collaboration
 
-See `LICENSE` for details.
+See the `LICENSE` file for the full text.
 
 ---
 
